@@ -13,6 +13,3 @@
 
 
 ## Software Engineering/Programming
-
-
-## Technology
