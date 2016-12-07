@@ -25,7 +25,7 @@ Cheers, and best of luck with your technical endeavors!
 <h2><a name="toc">Table of Contents</a></h2>
 - [Articles](https://github.com/acastrounis/tech-stem-steam-education-career-resources/blob/master/Articles.md)
 - [Blogs](https://github.com/acastrounis/tech-stem-steam-education-career-resources/blob/master/Blogs.md)
-- [Bootcamps(https://github.com/acastrounis/tech-stem-steam-education-career-resources/blob/master/Bootcamps.md)
+- [Bootcamps](https://github.com/acastrounis/tech-stem-steam-education-career-resources/blob/master/Bootcamps.md)
 - [Clubs and Meetups](https://github.com/acastrounis/tech-stem-steam-education-career-resources/blob/master/Clubs%20and%20Meetups.md)
 - [Colleges and Universities](https://github.com/acastrounis/tech-stem-steam-education-career-resources/blob/master/Colleges%20and%20Universities.md)
 - [Internship Programs](https://github.com/acastrounis/tech-stem-steam-education-career-resources/blob/master/Internship%20Programs.md)
