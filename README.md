@@ -11,7 +11,7 @@ I've developed this set of resources for my <a href="http://www.innoarchitech.co
 Resources include all files and links in this repository. A hyperlinked <a href="#toc">_table of contents_</a> is provided below for your convenience, and note that links are listed in no particular order of preference or relevance. Well... except for my _blog_ maybe :)
 
 If you find this repository useful, please _share_ it with others! Here are some ready-to-go _sharing links_:
-- [Twitter](https://twitter.com/intent/tweet?text=Tech,%20STEM,%20%26%20STEAM%20Resources%20https%3A//github.com/acastrounis/tech-stem-steam-education-career-resources%20%23Tech%20%23STEM%20%23GenderGap%20%23WomenInTech)
+- [Twitter](https://twitter.com/intent/tweet?text=Tech,%20STEM,%20%26%20STEAM%20Education%20%26%20Career%20Resources%20https%3A//github.com/acastrounis/tech-stem-steam-education-career-resources%20%23Tech%20%23STEM%20%23STEAM%20%23GenderGap%20%23WomenInTech)
 - [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//github.com/acastrounis/tech-stem-steam-education-career-resources&title=Tech,%20STEM,%20and%20STEAM%20Education%20and%20Career%20Resources&summary=&source=)
 - [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/acastrounis/tech-stem-steam-education-career-resources)
 - [Email](mailto:?&subject=GitHub Repo: Tech, STEM, and STEAM Education and Career Resources&body=Check%20out%20this%20curated%20set%20of%20resources%20for%20Tech,%20STEM,%20and%20STEAM%20education%20and%20careers!%0A%0Ahttps%3A//github.com/acastrounis/tech-stem-steam-education-career-resources%0A%0AEnjoy!)
