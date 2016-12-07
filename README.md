@@ -34,5 +34,6 @@ Cheers, and best of luck with your technical endeavors!
 - [Mentorship Programs](https://github.com/acastrounis/tech-stem-steam-education-career-resources/blob/master/Mentorship%20Programs.md)
 - [Online Learning and MOOCS](https://github.com/acastrounis/tech-stem-steam-education-career-resources/blob/master/Online%20Learning%20and%20MOOCS.md)
 - [Talks](https://github.com/acastrounis/tech-stem-steam-education-career-resources/blob/master/Talks.md)
+- [Tech Career Benefits](https://github.com/acastrounis/tech-stem-steam-education-career-resources/blob/master/Tech%Career%20Benefits.md)
 - [Tech Fields and Industries](https://github.com/acastrounis/tech-stem-steam-education-career-resources/blob/master/Tech%20Fields%20and%20Industries.md)
 - [Tech Roles](https://github.com/acastrounis/tech-stem-steam-education-career-resources/blob/master/Tech%20Roles.md)
