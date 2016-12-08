@@ -7,7 +7,7 @@
 - 
 
 ## Software Engineering/Programming
-- 
+- [Chicago Women Developers](http://www.cwdevs.com/)
 
 ## Design
 - 
