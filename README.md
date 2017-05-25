@@ -14,7 +14,7 @@ If you find this repository useful, please _share_ it with others! Here are some
 - [Twitter](https://twitter.com/intent/tweet?text=Tech,%20STEM,%20%26%20STEAM%20Education%20%26%20Career%20Resources%20https%3A//github.com/acastrounis/tech-stem-steam-education-career-resources%20%23Tech%20%23STEM%20%23STEAM%20%23GenderGap%20%23WomenInTech)
 - [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//github.com/acastrounis/tech-stem-steam-education-career-resources&title=Tech,%20STEM,%20and%20STEAM%20Education%20and%20Career%20Resources&summary=&source=)
 - [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/acastrounis/tech-stem-steam-education-career-resources)
-- [Email](mailto:?&subject=GitHub Repo: Tech, STEM, and STEAM Education and Career Resources&body=Check%20out%20this%20curated%20set%20of%20resources%20for%20Tech,%20STEM,%20and%20STEAM%20education%20and%20careers!%0A%0Ahttps%3A//github.com/acastrounis/tech-stem-steam-education-career-resources%0A%0AEnjoy!)
+- <a href="mailto:?&subject=GitHub Repo: Tech, STEM, and STEAM Education and Career Resources&body=Check%20out%20this%20curated%20set%20of%20resources%20for%20Tech,%20STEM,%20and%20STEAM%20education%20and%20careers!%0A%0Ahttps%3A//github.com/acastrounis/tech-stem-steam-education-career-resources%0A%0AEnjoy!">Email</a>
 
 You can follow [_@innoarchitech_](https://twitter.com/innoarchitech) on _Twitter_ and sign up for our <a href="http://innoarchitech.com/newsletter/?utm_source=github&utm_medium=repo&utm_content=repolink&utm_campaign=opensource">_newsletter_</a> for the latest _InnoArchiTech_ content updates.
 
