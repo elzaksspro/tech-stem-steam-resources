@@ -23,6 +23,7 @@ Cheers, and best of luck with your technical endeavors!
 [Alex](http://www.innoarchitech.com/about/?utm_source=github&utm_medium=repo&utm_content=repolink&utm_campaign=opensource)
 
 <h2><a name="toc">Table of Contents</a></h2>
+
 - [Articles](https://github.com/acastrounis/tech-stem-steam-education-career-resources/blob/master/Articles.md)
 - [Blogs](https://github.com/acastrounis/tech-stem-steam-education-career-resources/blob/master/Blogs.md)
 - [Bootcamps](https://github.com/acastrounis/tech-stem-steam-education-career-resources/blob/master/Bootcamps.md)
