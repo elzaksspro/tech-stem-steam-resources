@@ -12,7 +12,7 @@ Cheers, and best of luck with your technical endeavors!
 
 [Alex](http://www.innoarchitech.com/about/?utm_source=github&utm_medium=repo&utm_content=repolink&utm_campaign=opensource)
 
-If you find this repository useful, please star it and _share_ it with these links.
+PS. If you find this repository useful, please star it and _share_ it with these links.
 - [Twitter](https://twitter.com/intent/tweet?text=Tech,%20STEM,%20%26%20STEAM%20Education%20%26%20Career%20Resources%20https%3A//github.com/acastrounis/tech-stem-steam-education-career-resources%20%23Tech%20%23STEM%20%23STEAM%20%23GenderGap%20%23WomenInTech)
 - [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//github.com/acastrounis/tech-stem-steam-education-career-resources&title=Tech,%20STEM,%20and%20STEAM%20Education%20and%20Career%20Resources&summary=&source=)
 - [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/acastrounis/tech-stem-steam-education-career-resources)
