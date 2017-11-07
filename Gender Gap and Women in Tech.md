@@ -29,3 +29,15 @@
 - [STEM 101: Intro to Tomorrow's Jobs](http://www.bls.gov/careeroutlook/2014/spring/art01.pdf)
 - [Bureau of Labor Statistics - Career Outlook for STEM](http://www.bls.gov/careeroutlook/subject/stem.htm)
 - [What does the S&E job market look like for U.S. graduates?](https://www.nsf.gov/nsb/sei/edTool/data/workforce-03.html)
+
+## Women Specific Career Guidebooks
+- [Scholarships, Programs and Organizations Helping Women Bridge the STEM Gender Gap](https://www.affordablecollegesonline.org/women-in-stem/)
+- [Opportunities and Benefits For Women in Under-represented Careers](https://www.learnhowtobecome.org/underrepresented-careers-for-women/)
+- [Women Wanted: Scholarships, Colleges and Careers in Computer Science](https://www.computerscienceonline.org/cs-programs-for-women/)
+- [Where To Find College Funding to Help Female Students?](https://www.learnhowtobecome.org/college/financial-aid-for-women/)
+
+## Computer Science Degree Information
+- [Financial Aid: Scholarships and Grants in Computer Science](https://www.computerscienceonline.org/cs-scholarships/)
+- [How Do I Earn A Degree In Data Science and What is It Good For](https://www.affordablecollegesonline.org/degrees/computer-science-programs/data-science/)
+- [Computer Science Degree Programs: A Look at Coursework, Schools, and What to Expect](https://www.accreditedschoolsonline.org/computer-science-degree/)
+- [Preparing For a CS Degree Before College](https://www.computerscienceonline.org/cs-programs-before-college/)
